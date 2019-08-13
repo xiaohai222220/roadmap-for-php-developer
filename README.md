@@ -6,9 +6,10 @@
   - [VS Code](https://code.visualstudio.com/)
   - [Sublime Text](https://www.sublimetext.com/)
 
-- [Web 开发技术 (HTML/CSS/JS)](https://developer.mozilla.org/zh-CN/docs/Web)
+- [Web Development (HTML/CSS/JS)](https://developer.mozilla.org/zh-CN/docs/Web)
 
-- [PHP 官方手册](https://www.php.net/manual/zh/)
+- [PHP Manual](https://www.php.net/manual/zh/)
+  - [PHP language reference](https://www.php.net/manual/zh/langref.php)
 
 - [PHP XDebug](https://xdebug.org/)
 
