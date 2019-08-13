@@ -4,6 +4,8 @@
 
 - [PHP 官方手册](https://www.php.net/manual/zh/)
 
+- [PHP XDebug](https://xdebug.org/)
+
 - [PHP The Right Way](https://phptherightway.com/)
 
 - PHP Framework
@@ -23,3 +25,6 @@
     - [PHP Storm](https://www.jetbrains.com/phpstorm/)
     - [VS Code](https://code.visualstudio.com/)
     - [Sublime Text](https://www.sublimetext.com/)
+
+- [PHP FIG](https://www.php-fig.org/)
+
