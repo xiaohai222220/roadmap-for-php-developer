@@ -8,8 +8,6 @@
 
 - [Web 开发技术 (HTML/CSS/JS)](https://developer.mozilla.org/zh-CN/docs/Web)
 
-- [Free Code Camp](https://www.freecodecamp.org/)
-
 - [PHP 官方手册](https://www.php.net/manual/zh/)
 
 - [PHP XDebug](https://xdebug.org/)
@@ -60,3 +58,21 @@
 - Search Engine
   - [Solr](https://lucene.apache.org/solr/)
   - [ElasticSearch](https://www.elastic.co/guide/index.html)
+
+- Big Data
+  - [Hadoop](https://hadoop.apache.org/)
+    - [Hadoop Streaming](https://hadoop.apache.org/docs/r1.2.1/streaming.html)
+  - [Hive](https://hive.apache.org/)
+
+- Micro Service
+
+  - [Apache Thrift](https://thrift.apache.org/)
+  - [gRPC](https://grpc.io/)
+  - [Docker](https://www.docker.com/)
+  - [K8s](https://kubernetes.io/)
+
+- Monitor
+
+  - [Prometheus](https://prometheus.io/)
+  - [Open Falcon](https://open-falcon.org/)
+
