@@ -33,3 +33,20 @@
 - [PHP FIG](https://www.php-fig.org/)
 
 - [HTTP](https://developer.mozilla.org/zh-CN/docs/Web/HTTP)
+
+- [Nginx](https://nginx.org/en/)
+
+- [MySQL](https://dev.mysql.com/doc/refman/8.0/en/)
+
+- [Redis](https://redis.io/)
+
+- [Memcached](https://memcached.org/)
+
+- Message Queue
+    - [Kafka](https://kafka.apache.org/)
+    - [Beanstalkd](https://beanstalkd.github.io/)
+    - [RabbitMQ](https://www.rabbitmq.com/)
+
+- Search Engine
+    - [Solr](https://lucene.apache.org/solr/)
+    - [ElasticSearch](https://www.elastic.co/guide/index.html)
