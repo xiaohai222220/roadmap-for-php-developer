@@ -36,17 +36,24 @@
 
 - [Nginx](https://nginx.org/en/)
 
-- [MySQL](https://dev.mysql.com/doc/refman/8.0/en/)
+- Database
 
-- [Redis](https://redis.io/)
+  - [MySQL](https://dev.mysql.com/doc/refman/8.0/en/)
+  - [PostgreSQL](https://www.postgresql.org/)
+  - [MongoDB](https://docs.mongodb.com/)
+  - [SQLite](https://www.sqlite.org/index.html)
 
-- [Memcached](https://memcached.org/)
+- Cache
+
+  - [Redis](https://redis.io/)
+  - [Memcached](https://memcached.org/)
 
 - Message Queue
-    - [Kafka](https://kafka.apache.org/)
-    - [Beanstalkd](https://beanstalkd.github.io/)
-    - [RabbitMQ](https://www.rabbitmq.com/)
+
+  - [Kafka](https://kafka.apache.org/)
+  - [Beanstalkd](https://beanstalkd.github.io/)
+  - [RabbitMQ](https://www.rabbitmq.com/)
 
 - Search Engine
-    - [Solr](https://lucene.apache.org/solr/)
-    - [ElasticSearch](https://www.elastic.co/guide/index.html)
+  - [Solr](https://lucene.apache.org/solr/)
+  - [ElasticSearch](https://www.elastic.co/guide/index.html)
