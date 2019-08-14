@@ -46,6 +46,7 @@
 - Database
 
   - [MySQL](https://dev.mysql.com/doc/refman/8.0/en/)
+    - [phpMyAdmin](https://www.phpmyadmin.net/)
   - [PostgreSQL](https://www.postgresql.org/)
   - [MongoDB](https://docs.mongodb.com/)
   - [SQLite](https://www.sqlite.org/index.html)
