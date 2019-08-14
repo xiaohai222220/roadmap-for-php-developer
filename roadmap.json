@@ -1,3 +1,6 @@
 {
-    "author":"Ceelog"
+  "author": "Ceelog",
+  "dependencies": {
+    "roadmapedu/cet-4": "latest"
+  }
 }
