@@ -7,14 +7,15 @@
   - [Sublime Text](https://www.sublimetext.com/)
 
 - [Git](https://git-scm.com/)
+  - [Github](https://github.com/)
+  - [Gitlab](https://about.gitlab.com/)
+  - [Bitbucket](https://bitbucket.org/product/)
 
 - [Web Development (HTML/CSS/JS)](https://developer.mozilla.org/zh-CN/docs/Web)
 
 - [PHP Manual](https://www.php.net/manual/zh/)
   - [PHP language reference](https://www.php.net/manual/zh/langref.php)
   - [PHP Built-in Web Server](https://www.php.net/manual/en/features.commandline.webserver.php)
-
-- [PHP XDebug](https://xdebug.org/)
 
 - [PHP The Right Way](https://phptherightway.com/)
 
@@ -30,6 +31,8 @@
   - [ThinkPHP](http://www.thinkphp.cn/)
   - [Yaf](https://www.php.net/manual/zh/book.yaf.php)
 
+- [PHP XDebug](https://xdebug.org/)
+
 - [PHPUnit](https://phpunit.de/)
 
 - [PHP Composer](https://getcomposer.org/)
@@ -41,10 +44,12 @@
 - [HTTP](https://developer.mozilla.org/zh-CN/docs/Web/HTTP)
 
 - Linux
+  - [Basic Usage](https://www.tutorialspoint.com/unix/index.htm)
   - SSH Client
     - [XShell](https://www.netsarang.com/en/xshell/)
     - [MobaXterm](https://mobaxterm.mobatek.net/)
     - [PuTTY](https://www.putty.org/)
+  - [Shell Programming](https://www.tutorialspoint.com/unix/shell_scripting.htm)
 
 
 - Web Server
@@ -96,3 +101,4 @@
   - [php7-internal](https://github.com/pangudashu/php7-internal)
   - [Thinking in PHP internals](http://www.php-internals.com/)
   - [PHP internals book](http://www.phpinternalsbook.com/)
+  
