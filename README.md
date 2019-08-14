@@ -31,6 +31,8 @@
 
 - [PHP FIG](https://www.php-fig.org/)
 
+- [PHP Design Patterns](https://designpatternsphp.readthedocs.io/en/latest/README.html)
+
 - [HTTP](https://developer.mozilla.org/zh-CN/docs/Web/HTTP)
 
 - Web Server
