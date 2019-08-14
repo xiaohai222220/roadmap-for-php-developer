@@ -6,6 +6,8 @@
   - [VS Code](https://code.visualstudio.com/)
   - [Sublime Text](https://www.sublimetext.com/)
 
+- [Git](https://git-scm.com/)
+
 - [Web Development (HTML/CSS/JS)](https://developer.mozilla.org/zh-CN/docs/Web)
 
 - [PHP Manual](https://www.php.net/manual/zh/)
@@ -37,6 +39,13 @@
 - [PHP Design Patterns](https://designpatternsphp.readthedocs.io/en/latest/README.html)
 
 - [HTTP](https://developer.mozilla.org/zh-CN/docs/Web/HTTP)
+
+- Linux
+  - SSH Client
+    - [XShell](https://www.netsarang.com/en/xshell/)
+    - [MobaXterm](https://mobaxterm.mobatek.net/)
+    - [PuTTY](https://www.putty.org/)
+
 
 - Web Server
 
