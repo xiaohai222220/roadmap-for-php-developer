@@ -82,3 +82,7 @@
   - [Prometheus](https://prometheus.io/)
   - [Open Falcon](https://open-falcon.org/)
 
+- PHP Internal
+  - [php7-internal](https://github.com/pangudashu/php7-internal)
+  - [Thinking in PHP internals](http://www.php-internals.com/)
+  - [PHP internals book](http://www.phpinternalsbook.com/)
