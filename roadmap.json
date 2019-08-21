@@ -1,5 +1,10 @@
 {
-  "author": "Ceelog",
+  "author": [
+    {
+      "name":"Ceelog", 
+      "homepage":"https://github.com/ceelog"
+    }
+  ],
   "dependencies": {
     "roadmapedu/cet-4": "latest"
   }
